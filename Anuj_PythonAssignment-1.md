@@ -190,19 +190,3 @@ Q25. Write a program to display only those numbers from a list that satisfy the 
 ```
 numbers = [12, 75, 150, 180, 145, 525, 50]
 ```
-a = [12, 75, 150, 180, 145, 525, 50]
-b = []
-for i in a:
-    if i > 150:
-        if i > 500:
-            break
-        continue
-    if i % 5 == 0:
-        b.append(i)
-        
-print(b)
-
-
-i copied this on google i dont know how to make loop when i understant then i solve it
-
-thank you
